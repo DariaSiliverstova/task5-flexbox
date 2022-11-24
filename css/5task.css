@@ -1,0 +1,25 @@
+ul#hmenu {
+  margin: 0;
+  border: 0 none;
+  padding: 0;
+    list-style: none;
+  background: #565765;
+    height: 28px;
+  font: bold 12px/28px Verdana, Arial;
+}
+
+ul#hmenu a {
+  border: 0px;
+  padding: 0 6px;
+  float: none !important;
+  float: left;
+  display: block;
+  background: #565766;
+  color: #FFFFFF;
+  font: bold 12px/28px Verdana, Arial;
+  text-decoration: none;
+  height: auto !important;
+  height: 1%;
+}
+
+
